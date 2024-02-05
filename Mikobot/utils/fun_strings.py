@@ -220,7 +220,7 @@ TOSS = (
 DECIDE = ("Yes.", "No.", "Maybe.")
 
 
-# This feature's credit goes to @ishikki_akabane
+# This feature's credit goes to @decent_b
 FLIRT = (
     "I hope you know CPR, because you just took my breath away!",
     "So, aside from taking my breath away, what do you do for a living?",
